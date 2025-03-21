@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muroo\\Desktop\\program (git)\\git_version\\\u7269\u7406\u5DE5\u5B66\u5B9F\u9A13\\VisualStudioC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2554AB35-4BAF-4A14-9F2E-6D58B62216F6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\muroo\\desktop\\program (git)\\git_version\\\u7269\u7406\u5DE5\u5B66\u5B9F\u9A13\\visualstudioc#\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2554AB35-4BAF-4A14-9F2E-6D58B62216F6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\muroo\\Desktop\\program (git)\\git_version\\\u7269\u7406\u5DE5\u5B66\u5B9F\u9A13\\VisualStudioC#\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\muroo\\Desktop\\program (git)\\git_version\\\u7269\u7406\u5DE5\u5B66\u5B9F\u9A13\\VisualStudioC#\\WindowsFormsApp1\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:04:37.173Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
